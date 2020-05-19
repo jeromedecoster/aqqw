@@ -1,4 +1,4 @@
-set -e
+
 
 URL=https://raw.githubusercontent.com/jeromedecoster/aqqw/master
 
